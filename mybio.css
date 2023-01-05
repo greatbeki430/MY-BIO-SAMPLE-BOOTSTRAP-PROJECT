@@ -1,0 +1,23 @@
+*{
+    background-color:rgba(80, 79, 79, 0.039) ;
+}
+.container{
+    display: flex;
+}
+.col1 {
+    float:left;
+}
+.col2{
+    float: right;
+    padding-left: 50px;
+    padding-top: 0px;
+}
+.h1{
+    margin-left: 90px;
+}
+.img-fluid{
+    width: 250px;
+    height: 350px;
+    margin-top: 15px;
+    border-radius: 50%;
+}
